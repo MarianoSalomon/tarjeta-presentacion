@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #3F5EFB;
+background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(194, 70, 252, 1) 100%);
+    color: white;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4em;
+    padding: 0.5em;
+}
+
+div img{
+    width: 20%;
+    border-radius: 25px;
+    box-shadow: 2px 2px 5px;
+}
+
+img:hover{
+    cursor: crosshair;
+    filter: grayscale(80%);
+    -webkit-transform:scale(1.05);transform:scale(1.05);
+}
+
+p{
+    font-family: 'Lora', sans-serif;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+footer{
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
