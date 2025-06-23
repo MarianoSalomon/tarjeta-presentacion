@@ -5,7 +5,7 @@
 
 body{
     background: #3F5EFB;
-background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(194, 70, 252, 1) 100%);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(194, 70, 252, 1) 100%);
     color: white;
     text-align: center;
 }
