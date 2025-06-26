@@ -25,11 +25,12 @@ div img{
 img:hover{
     cursor: crosshair;
     filter: grayscale(80%);
-    -webkit-transform:scale(1.05);transform:scale(1.05);
+    transform:scale(1.05); transform:scale(1.05);
 }
 
 p{
     font-family: 'Lora', sans-serif;
+    font-size: 1.2em;
     margin: 0.5em;
     padding: 0.5em;
 }
